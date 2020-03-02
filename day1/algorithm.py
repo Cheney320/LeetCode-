@@ -34,12 +34,12 @@
 遇到字母或数字不相等就返回０，忽略大小写。若最后栈非空，返回０，否则返回１。
 """
 # def isPalindrome(s):
-#         stack = []
-#         [stack.append(i) for i in s.lower() if i.isalnum()]
-#         for i in stack:
-#             if i != stack.pop():
-#                 return False
-#         return True
+#     stack = []
+#     [stack.append(i) for i in s.lower() if i.isalnum()]
+#     for i in stack:
+#         if i != stack.pop():
+#             return False
+#     return True
 
 # 方法四:
 def isPalindrome(s):
