@@ -17,3 +17,7 @@ day3
 day4
 
 - 三数之和https://leetcode-cn.com/problems/3sum/
+
+day5
+
+- 数组中的第k个最大元素https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
