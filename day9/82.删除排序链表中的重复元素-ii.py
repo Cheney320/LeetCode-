@@ -13,6 +13,7 @@ class ListNode:
 
 class Solution:
     def deleteDuplicates(self, head):
+        # 头节点为空直接返回
         if not head: return head
         values = []   # 存储重复值
         p = head
@@ -20,7 +21,7 @@ class Solution:
             if p.next.val == p.val:
                 values.append(p.val)
             p = p.next
-        # 删除节点
+        # 删除节点(设置虚拟头节点是为了统一第一个节点为重复节点的情况)
         dummyHead = ListNode(None)
         dummyHead.next = head
         prenode = dummyHead
