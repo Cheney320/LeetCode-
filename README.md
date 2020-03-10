@@ -29,3 +29,11 @@ day6
 day7
 
 - 无重复字符的最长子串https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
+
+day8
+
+- 排序链表https://leetcode-cn.com/problems/sort-list/
+
+day9
+
+- 删除排序链表中的重复元素II https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
