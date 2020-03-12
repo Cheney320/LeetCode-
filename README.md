@@ -37,3 +37,11 @@ day8
 day9
 
 - 删除排序链表中的重复元素II https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
+
+day10
+
+- 复制带随机指针的链表https://leetcode-cn.com/problems/copy-list-with-random-pointer/
+
+day11
+
+- 平衡二叉树https://leetcode-cn.com/problems/balanced-binary-tree/
