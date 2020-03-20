@@ -45,3 +45,43 @@ day10
 day11
 
 - 平衡二叉树https://leetcode-cn.com/problems/balanced-binary-tree/
+
+day12
+
+- 翻转二叉树https://leetcode-cn.com/problems/invert-binary-tree/
+- 树的子结构https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/
+
+day13
+
+- 从上到下打印二叉树https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/
+- 从上到下打印二叉树 III https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
+
+day14
+
+- 路径总和II https://leetcode-cn.com/problems/path-sum-ii/
+- 二叉树中的最大路径和https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/
+
+day15
+
+- 验证二叉搜索树https://leetcode-cn.com/problems/validate-binary-search-tree/
+- 二叉搜索树与双向链表https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/
+
+day16
+
+- 二叉搜索树的第k大节点https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
+
+day17
+今天的主题DFS
+- 二叉树的最小深度https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/
+- 被围绕的区域https://leetcode-cn.com/problems/surrounded-regions/
+
+day18
+今天的主题为DFS
+- 岛屿数量https://leetcode-cn.com/problems/number-of-islands/
+- 扫雷游戏https://leetcode-cn.com/problems/minesweeper/
+
+day19
+今天的主题为BFS
+- 被围绕的区域https://leetcode-cn.com/problems/surrounded-regions/
+- 岛屿数量https://leetcode-cn.com/problems/number-of-islands/
+
