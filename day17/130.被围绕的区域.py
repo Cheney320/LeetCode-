@@ -10,7 +10,7 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        if board is None or len(board) == 0: return
+        if not board or not board[0]: return
         m, n = len(board), len(board[0])
         for i in range(m):
             for j in range(n):
