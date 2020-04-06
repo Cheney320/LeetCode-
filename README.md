@@ -88,3 +88,33 @@ day19
 day20
 `今天的主题为BFS`
 - 腐烂的橘子https://leetcode-cn.com/problems/rotting-oranges/
+
+day21
+`今天的主题为BFS`
+- 二叉树的右视图https://leetcode-cn.com/problems/binary-tree-right-side-view/
+-路径总和https://leetcode-cn.com/problems/path-sum/
+
+2020-3-26
+`今天的主题是链表和二叉树`
+- 打家劫舍 III https://leetcode-cn.com/problems/house-robber-iii/
+- 对链表进行插入排序 https://leetcode-cn.com/problems/insertion-sort-list/
+
+2020-4-2
+`今天的主题是贪心算法`
+- 分发饼干https://leetcode-cn.com/problems/assign-cookies/
+- 加油站https://leetcode-cn.com/problems/gas-station/
+
+2020-4-4
+`今天的主题是回溯算法`
+- 字母大小全排列https://leetcode-cn.com/problems/letter-case-permutation/
+- 电话号码字母排列https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
+
+2020-4-5
+`今天的主题是回溯算法`
+- 无重复字符串的排列组合https://leetcode-cn.com/problems/permutation-i-lcci/
+- 括号https://leetcode-cn.com/problems/bracket-lcci/
+
+2020-4-6
+`今天的主题是动态规划`
+- 最大子序和https://leetcode-cn.com/problems/maximum-subarray/
+
