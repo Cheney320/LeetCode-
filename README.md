@@ -92,7 +92,7 @@ day20
 day21
 `今天的主题为BFS`
 - 二叉树的右视图https://leetcode-cn.com/problems/binary-tree-right-side-view/
--路径总和https://leetcode-cn.com/problems/path-sum/
+- 路径总和https://leetcode-cn.com/problems/path-sum/
 
 2020-3-26
 `今天的主题是链表和二叉树`
